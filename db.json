@@ -1,0 +1,130 @@
+{
+  "dogs": [
+    {
+      "name": "Marian",
+      "image": "/assets/corgi.png",
+      "description": "North Berkshire or parse Minnesota hot Bedfordshire",
+      "isFavorite": false,
+      "id": 0
+    },
+    {
+      "name": "Sydney",
+      "image": "/assets/chihuahua.avif",
+      "description": "Forest olive Compatible Kids Hyundai strategize Manat wordy",
+      "isFavorite": false,
+      "id": 2
+    },
+    {
+      "name": "Susana",
+      "image": "/assets/chihuahua.avif",
+      "description": "despite Market radian aw Table whiteboard Balboa",
+      "isFavorite": false,
+      "id": 3
+    },
+    {
+      "name": "Kolby",
+      "image": "/assets/boxer.png",
+      "description": "yum District Idaho Leu neural Awesome Extended Upgradable",
+      "isFavorite": true,
+      "id": 4
+    },
+    {
+      "name": "Kurt",
+      "image": "/assets/chihuahua.avif",
+      "description": "multimedia scream henry scholarly dark Product female",
+      "isFavorite": false,
+      "id": 5
+    },
+    {
+      "name": "Dalton",
+      "image": "/assets/blue-heeler.png",
+      "description": "Cruiser Tasty Account generate Card Road Buckinghamshire alarm",
+      "isFavorite": true,
+      "id": 6
+    },
+    {
+      "name": "Larue",
+      "image": "/assets/corgi.png",
+      "description": "radian Point 24/365 redundant female Intranet Loan",
+      "isFavorite": false,
+      "id": 7
+    },
+    {
+      "name": "Wellington",
+      "image": "/assets/boxer.png",
+      "description": "tan Developer Nevada Missouri state heir City",
+      "isFavorite": false,
+      "id": 8
+    },
+    {
+      "name": "Janis",
+      "image": "/assets/corgi.png",
+      "description": "Soul Automotive Recycled yellow Fish mobile Refined",
+      "isFavorite": true,
+      "id": 9
+    },
+    {
+      "name": "Maynard",
+      "image": "/assets/boxer.png",
+      "description": "Northwest Northwest initiatives 3rd enrich Future Recycled East",
+      "isFavorite": false,
+      "id": 10
+    },
+    {
+      "name": "Dock",
+      "image": "/assets/corgi.png",
+      "description": "Bicycle Associate Oganesson apropos Account",
+      "isFavorite": false,
+      "id": 11
+    },
+    {
+      "name": "Shaniya",
+      "image": "/assets/dalmation.png",
+      "description": "Bugatti white Analyst Casey Program",
+      "isFavorite": true,
+      "id": 12
+    },
+    {
+      "name": "Myra",
+      "image": "/assets/boxer.png",
+      "description": "qualified Representative Persevering Investor Minnesota",
+      "isFavorite": true,
+      "id": 13
+    },
+    {
+      "name": "Emely",
+      "image": "/assets/boxer.png",
+      "description": "Quality Credit systemic Iceland West",
+      "isFavorite": false,
+      "id": 15
+    },
+    {
+      "name": "Rubye",
+      "image": "/assets/dalmation.png",
+      "description": "Southwest transmit ugh restfully teal",
+      "isFavorite": true,
+      "id": 16
+    },
+    {
+      "name": "Leif",
+      "image": "/assets/boxer.png",
+      "description": "API Walks Incredible Loan impactful feed Rap",
+      "isFavorite": false,
+      "id": 17
+    },
+    {
+      "name": "Alayna",
+      "image": "/assets/cowardly.png",
+      "description": "Chief web tan Incredible overriding",
+      "isFavorite": true,
+      "id": 18
+    },
+    {
+      "name": "Maryam",
+      "image": "/assets/boxer.png",
+      "description": "microchip Ergonomic second Borders trouble",
+      "isFavorite": true,
+      "id": 19
+    }
+  ]
+}
